@@ -1,5 +1,5 @@
 pyrogram
 tgcrypto
 requests
-pip install urldl
+urldl
 
